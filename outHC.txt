@@ -1,0 +1,4 @@
+Node ID: A, Cost: 20
+Node ID: D, Cost: 6
+Node ID: I, Cost: 8
+Node ID: B, Cost: 0
